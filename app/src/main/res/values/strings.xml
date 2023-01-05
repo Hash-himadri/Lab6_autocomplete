@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab6_autocomplete</string>
+    <string name="enter_names">Enter names</string>
+    <string-array name="names">
+        <item>Mogambo</item>
+        <item>Thanos</item>
+        <item>Crime Master Gogo</item>
+        <item>Gabbar</item>
+        <item>Jaychand</item>
+    </string-array>
+</resources>
